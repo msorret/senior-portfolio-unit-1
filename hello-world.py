@@ -1,3 +1,4 @@
 print("hello world")
-print("Period 2 Commit")
-print("Period 3 Commit")
+print("Hello Period 2!")
+print("I am going to commit to our new branch!")
+print("yay!")
