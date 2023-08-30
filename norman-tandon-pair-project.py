@@ -45,3 +45,5 @@ song_data = [
         "tempo": 90,
     },
 ]
+
+print("hi!")
